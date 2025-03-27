@@ -14,5 +14,6 @@ array_type=type(array)
 element_type = array.dtype
 
 print("Type of elements in array:", element_type)
+shachi
 
 
